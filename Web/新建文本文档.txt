@@ -10,9 +10,14 @@ testes
 777
 999
 adfaddafad
+<<<<<<< HEAD
 121212
 1234
 5678
 test1_Local
 test
 
+=======
+Test1
+atsetsetsetsetesteteset
+>>>>>>> 3ce7c9774fefef39e2cf3897135cbe8fbae3e05e
